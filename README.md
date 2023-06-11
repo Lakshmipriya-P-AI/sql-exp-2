@@ -3,6 +3,7 @@
 To fetch the given column and arrange the values in descending order using SQL.
 
 ## ALGORITHM:
+
 STEP 1: Create a sample table in SQL using CREATE TABLE syntax
 STEP 2: Insert all the values and Titles respectively using INSERT INTO syntax
 STEP 3: Now check whether all the rows are affected or not by fetching the table
